@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Stack</h2>
+<h2>⚡Stack⚡</h2>
 
 <p>
 <img src="https://img.shields.io/badge/-java-007396?style=flat&logo=Java"/>
