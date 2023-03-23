@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
+  <hr>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=seeminglyjs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+  <hr>
+  
 ![seeminglyjs's github stats](https://github-readme-stats.vercel.app/api?username=seeminglyjs&show_icons=true)
 [![seeminglyjs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeminglyjs&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seeminglyjs)
 
