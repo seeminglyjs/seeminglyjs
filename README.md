@@ -1,8 +1,7 @@
  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Show Me the Code&fontSize=90&animation=twinkling" />
   </div>
 
-<h1 >Seeminglyjs is online 👋 </h1>
 <br>
 
   
@@ -21,12 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-```java
-    @Test
-    public void test(){
-        System.out.println("Hello Seeminglyjs");
-    }
-```
+
  <div align="center">
   
 <hr>
