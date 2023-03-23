@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 -->
   
   ```java
-    @Test
-    public void test(){
-        System.out.println("Hello Seeminglyjs");
-    }
+@Test
+  public void test(){
+    System.out.println("Hello Seeminglyjs");
+  }
 
 ```
   
