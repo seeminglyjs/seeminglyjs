@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  ```java
-@Test
-  public void test(){
-    System.out.println("Hello Seeminglyjs");
-  }
-
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 ```
   
   
