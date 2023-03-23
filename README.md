@@ -20,6 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
+  ```java
+    @Test
+    public void test(){
+        System.out.println("Hello Seeminglyjs");
+    }
+
+```
+  
+  
   <hr>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=seeminglyjs&row=1)](https://github.com/ryo-ma/github-profile-trophy)
