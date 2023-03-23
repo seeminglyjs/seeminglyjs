@@ -1,7 +1,6 @@
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-<div>
+ <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  </div>
 
 <h1 >Seeminglyjs is online 👋 </h1>
 <br>
@@ -40,6 +39,6 @@ Here are some ideas to get you started:
 ![seeminglyjs's github stats](https://github-readme-stats.vercel.app/api?username=seeminglyjs&show_icons=true)
 [![seeminglyjs's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeminglyjs&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seeminglyjs)
 
-<div>
---- 
+
+
 </div>
