@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 
 <h1 >Seeminglyjs is online 👋 </h1>
 <br>
